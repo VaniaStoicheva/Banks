@@ -1,0 +1,5 @@
+E:\C# Project\chapter 20\Shape\Bnak\obj\x86\Release\ResolveAssemblyReference.cache
+E:\C# Project\chapter 20\Shape\Bnak\bin\Release\Bnak.exe
+E:\C# Project\chapter 20\Shape\Bnak\bin\Release\Bnak.pdb
+E:\C# Project\chapter 20\Shape\Bnak\obj\x86\Release\Bnak.exe
+E:\C# Project\chapter 20\Shape\Bnak\obj\x86\Release\Bnak.pdb
